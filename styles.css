@@ -1,0 +1,52 @@
+body {
+	text-align: center;
+	font-family: Arial;
+	font-size: 1.3rem;
+	background: url("http://orig13.deviantart.net/83ec/f/2015/113/d/7/pink_cocorrina_by_cocorie-d8qr2mx.jpg");
+	color: #e87393;
+}
+
+h1 {
+	margin: 60px auto;
+}
+
+form {
+	margin: 50px;
+}
+
+input[type="checkbox" i] {
+	width: 25px;
+	height: 25px;
+}
+
+button {
+	width: 200px;
+    height: 50px;
+    background-color: cornsilk;
+    border: 5px solid rgba(241, 26, 99, 0.35);
+    border-radius: 10px;
+    color: #e87393;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+ul, li {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+	color: #e87393;
+	font-size: 18px;
+    display: inherit;
+}
+
+img {
+	margin: 20px auto;
+	border-radius: 50%;
+}
+
+.icons8 {
+	font-size: 12px;
+	margin-top: 60px;
+}
